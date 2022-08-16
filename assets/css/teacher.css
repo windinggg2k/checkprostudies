@@ -1,0 +1,76 @@
+/* BEGIN TEACHER */
+.teacher-manager {
+    
+}
+
+.teacher-manager-title>p {
+    margin: 12px;
+    font-size: 26px;
+}
+
+.teacher-manager-title-p {
+    float: left;
+}
+
+.select {
+    padding: 12px 12px 12px 0;
+}
+
+.li-hv:hover {
+    background-color: #08df08;
+}
+
+.li-hv>a {
+    color: #000;
+    text-decoration: none !important;
+}
+
+.pd {
+    box-shadow: 0px 5px 5px grey;
+    outline: none;
+    border-radius: 5px;
+    ;
+    border: none;
+    padding: 5.2px;
+}
+
+.pd:focus {
+    outline: none;
+}
+
+#loc {
+    box-shadow: 0px 5px 5px grey;
+    outline: none;
+    border-radius: 5px;
+    ;
+    border: none;
+    background-color: #08df08;
+}
+
+#loc:focus {
+    outline: none;
+}
+
+#ipt-timsv {
+    border: none;
+}
+
+#ipt-timsv {
+    box-shadow: 0px 5px 5px grey;
+    outline: none;
+    border-radius: 5px;
+    ;
+}
+
+.container .heading {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.container .heading h3{
+    font-weight: 800;
+}
+
+/* END TEACHER */

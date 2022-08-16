@@ -1,0 +1,162 @@
+[
+    {
+        "userid": 1,
+        "username": "admin",
+        "password": "123",
+        "fullname": "Đinh Văn Thắng",
+        "role": "admin",
+        "children": ""
+    },
+    {
+        "userid": 2,
+        "username": "teacher",
+        "password": "123",
+        "fullname": "Nguyễn Duy Dự",
+        "role": "teacher",
+        "children": ""
+    },
+    {
+        "userid": 3,
+        "username": "parent",
+        "password": "123",
+        "fullname": "Nguyễn Tuấn Anh",
+        "role": "parent",
+        "children": "4,5"
+    },
+    {
+        "userid": 4,
+        "username": "student",
+        "password": "123",
+        "fullname": "Nguyễn Vân Anh",
+        "role": "student",
+        "children": ""
+    },
+    {
+        "userid": 5,
+        "username": "MrE1",
+        "password": "123",
+        "fullname": "Nguyễn Duy Dự",
+        "role": "student",
+        "children": ""
+    },
+    {
+        "userid": 6,
+        "username": "MrA2",
+        "password": "123",
+        "fullname": "Ngô Ngọc Trang",
+        "role": "admin",
+        "children": ""
+    },
+    {
+        "userid": 7,
+        "username": "MrB2",
+        "password": "123",
+        "fullname": "Trịnh Huy Hoàng",
+        "role": "teacher",
+        "children": ""
+    },
+    {
+        "userid": 8,
+        "username": "MrC2",
+        "password": "123",
+        "fullname": "Vũ Thị Thu Hương",
+        "role": "parent",
+        "children": "9,10"
+    },
+    {
+        "userid": 9,
+        "username": "MrD2",
+        "password": "123",
+        "fullname": "Lê Hoàng Minh Khôi",
+        "role": "student",
+        "children": ""
+    },
+    {
+        "userid": 10,
+        "username": "MrE2",
+        "password": "123",
+        "fullname": "Đỗ Thị Hoa",
+        "role": "student",
+        "children": ""
+    },
+    {
+        "userid": 11,
+        "username": "MrA3",
+        "password": "123",
+        "fullname": "Nguyễn Đức Thái",
+        "role": "admin",
+        "children": ""
+    },
+    {
+        "userid": 12,
+        "username": "MrB3",
+        "password": "123",
+        "fullname": "Trịnh Thị Phương Nhung",
+        "role": "teacher",
+        "children": ""
+    },
+    {
+        "userid": 13,
+        "username": "MrC3",
+        "password": "123",
+        "fullname": "Hoàng Vũ Kỳ",
+        "role": "parent",
+        "children": "14,15"
+    },
+    {
+        "userid": 14,
+        "username": "MrD3",
+        "password": "123",
+        "fullname": "Trịnh Hồng Hải",
+        "role": "student",
+        "children": ""
+    },
+    {
+        "userid": 15,
+        "username": "MrE3",
+        "password": "123",
+        "fullname": "Đỗ Đặng Kiên",
+        "role": "student",
+        "children": ""
+    },
+    {
+        "userid": 16,
+        "username": "MrA4",
+        "password": "123",
+        "fullname": "Nguyễn Thanh Hải",
+        "role": "admin",
+        "children": ""
+    },
+    {
+        "userid": 17,
+        "username": "MrB4",
+        "password": "123",
+        "fullname": "Nguyễn Chính Nghĩa",
+        "role": "teacher",
+        "children": ""
+    },
+    {
+        "userid": 18,
+        "username": "MrC4",
+        "password": "123",
+        "fullname": "Phạm Thu Hương",
+        "role": "parent",
+        "children": "19,20"
+    },
+    {
+        "userid": 19,
+        "username": "MrD4",
+        "password": "123",
+        "fullname": "Trần Trương Toàn",
+        "role": "student",
+        "children": ""
+    },
+    {
+        "userid": 20,
+        "username": "MrE4",
+        "password": "123",
+        "fullname": "Phạm Phương Thảo",
+        "role": "student",
+        "children": ""
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "resourcesId": 1,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2203L",
+        "link": "https://www.w3schools.com/html/html_tables.asp",
+        "subject": "HTML",
+        "loai": "Link",
+        "nguon": "w3schools",
+        "demo": ""
+    },
+    {
+        "resourcesId": 2,
+        "semester": "Kỳ 2 Năm 2021-2023",
+        "class": "C2204L",
+        "link": "https://stackoverflow.com/questions/tagged/angular",
+        "subject": "AngularJS",
+        "loai": ".Doc",
+        "nguon": "Stackoverflow",
+        "demo": ""
+    },
+    {
+        "resourcesId": 3,
+        "semester": "Kỳ 1 Năm 2022-2023",
+        "class": "C2205L",
+        "link": "https://www.youtube.com/watch?v=KsVqBIWtRec",
+        "subject": "C++",
+        "loai": ".video",
+        "nguon": "Youtube",
+        "demo": ""
+    },
+    {
+        "resourcesId": 4,
+        "semester": "Kỳ 2 Năm 2022-2023",
+        "class": "C2206L",
+        "link": "https://www.youtube.com/watch?v=r1qie9pDweE",
+        "subject": "PHP",
+        "loai": ".video",
+        "nguon": "Youtube",
+        "demo": ""
+    },
+    {
+        "resourcesId": 5,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2207L",
+        "link": "https://stackoverflow.com/questions/tagged/javascript",
+        "subject": "Javascript",
+        "loai": ".Doc",
+        "nguon": "Stackoverflow",
+        "demo": ""
+    }
+
+]

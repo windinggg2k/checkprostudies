@@ -1,0 +1,92 @@
+[
+    {
+        "ID": 1,
+        "kyhoc": "Kỳ 1 năm học 2021-2022",
+        "giangvien": "Lục Văn Tiến",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 100,
+        "trangthai": "xuất sắc"
+    },
+    {
+        "ID": 2,
+        "kyhoc": "Kỳ 1 năm học 2021-2022",
+        "giangvien": "Lục Văn Tiến",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 10,
+        "trangthai": "trượt"
+    },
+    {
+        "ID": 3,
+        "kyhoc": "Kỳ 1 năm học 2021-2022",
+        "giangvien": "Lục Văn Tiến",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 60,
+        "trangthai": "trung bình"
+    },
+    {
+        "ID": 4,
+        "kyhoc": "Kỳ 1 năm học 2021-2022",
+        "giangvien": "Lục Văn Tiến",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 90,
+        "trangthai": "xuất sắc"
+    },
+    {
+        "ID": 5,
+        "kyhoc": "Kỳ 1 năm học 2021-2022",
+        "giangvien": "Lục Văn Tiến",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 50,
+        "trangthai": "trung bình"
+    },
+    {
+        "ID": 6,
+        "kyhoc": "Kỳ 2 năm học 2021-2022",
+        "giangvien": "Nguyễn Văn Hiểu",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 100,
+        "trangthai": "xuất sắc"
+    },
+    {
+        "ID": 7,
+        "kyhoc": "Kỳ 2 năm học 2021-2022",
+        "giangvien": "Nguyễn Văn Hiểu",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 90,
+        "trangthai": "xuất sắc"
+    },
+    {
+        "ID": 8,
+        "kyhoc": "Kỳ 2 năm học 2021-2022",
+        "giangvien": "Nguyễn Văn Hiểu",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 40,
+        "trangthai": "trung bình"
+    },
+    {
+        "ID": 9,
+        "kyhoc": "Kỳ 2 năm học 2021-2022",
+        "giangvien": "Nguyễn Văn Hiểu",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 10,
+        "trangthai": "trượt"
+    },
+    {
+        "ID": 10,
+        "kyhoc": "Kỳ 2 năm học 2021-2022",
+        "giangvien": "Nguyễn Văn Hiểu",
+        "thoigianbatdau": "6/2021",
+        "thoigianketthuc": "6/2022",
+        "diem": 10,
+        "trangthai": "trượt"
+    }
+]

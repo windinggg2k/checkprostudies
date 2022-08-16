@@ -1,0 +1,82 @@
+[
+    {
+        "markId": 1,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2203L",
+        "name": "Đinh Văn Thắng",
+        "mark": 12,
+        "subject": "HTML5"
+    },
+    {
+        "markId": 2,
+        "semester": "Kỳ 2 Năm 2021-2023",
+        "class": "C2204L",
+        "name": "Trịnh Thu Hằng",
+        "mark": 17,
+        "subject": "HTML5"
+    },
+    {
+        "markId": 3,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2203L",
+        "name": "Nguyễn Tuấn Anh",
+        "mark": 11,
+        "subject": "HTML5"
+    },
+    {
+        "markId": 4,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2204L",
+        "name": "Nguyễn Vân Anh",
+        "mark": 18,
+        "subject": "AngularJS"
+    },
+    {
+        "markId": 5,
+        "semester": "Kỳ 2 Năm 2021-2023",
+        "class": "C2203L",
+        "name": "Nguyễn Duy Dự",
+        "mark": 20,
+        "subject": "C#"
+    },
+    {
+        "markId": 6,
+        "semester": "Kỳ 2 Năm 2021-2023",
+        "class": "C2203L",
+        "name": "Ngô Ngọc Trang",
+        "mark": 12,
+        "subject": "PHP"
+    },
+    {
+        "markId": 7,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2203L",
+        "name": "Trịnh Huy Hoàng",
+        "mark": 16,
+        "subject": "AngularJS"
+    },
+    {
+        "markId": 8,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2205L",
+        "name": "Vũ Thị Thu Hương",
+        "mark": 12,
+        "subject": "HTML5"
+    },
+    {
+        "markId": 9,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2206L",
+        "name": "Lê Hoàng Minh Khôi",
+        "mark": 8,
+        "subject": "HTML5"
+    },
+    {
+        "markId": 10,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2207L",
+        "name": "Đỗ Thị Hoa",
+        "mark": 19,
+        "subject": "PHP"
+    }
+]

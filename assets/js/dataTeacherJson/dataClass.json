@@ -1,0 +1,57 @@
+[
+    {
+        "classid": 1,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2203L",
+        "timeStart": "20/08/2022",
+        "subject": "HTML5",
+        "sobuoi": "10",
+        "timeend": "10/2022",
+        "giaovu": "Mai",
+        "sdt": "0923774581"
+    },
+    {
+        "classid": 2,
+        "semester": "Kỳ 2 Năm 2021-2023",
+        "class": "C2204L",
+        "timeStart": "20/08/2022",
+        "subject": "AngularJS",
+        "sobuoi": "6",
+        "timeend": "11/2022",
+        "giaovu": "Thảo",
+        "sdt": "0309745813"
+    },
+    {
+        "classid": 3,
+        "semester": "Kỳ 1 Năm 2022-2023",
+        "class": "C2205L",
+        "timeStart": "20/11/2022",
+        "subject": "C++",
+        "sobuoi": "15",
+        "timeend": "12/2022",
+        "giaovu": "Thảo",
+        "sdt": "0950974581"
+    },
+    {
+        "classid": 4,
+        "semester": "Kỳ 2 Năm 2022-2023",
+        "class": "C2206L",
+        "timeStart": "18/5/2022",
+        "subject": "PHP",
+        "sobuoi": "15",
+        "timeend": "6/2022",
+        "giaovu": "Mai",
+        "sdt": "0923772345"
+    },
+    {
+        "classid": 5,
+        "semester": "Kỳ 1 Năm 2021-2023",
+        "class": "C2207L",
+        "timeStart": "10/08/2022",
+        "subject": "Javascript",
+        "sobuoi": "12",
+        "timeend": "18/2022",
+        "giaovu": "Mai",
+        "sdt": "0923774509"
+    }
+]

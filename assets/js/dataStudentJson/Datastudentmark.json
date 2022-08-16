@@ -1,0 +1,72 @@
+[
+    {
+        "ID": 1,
+        "diem": 16,
+        "giangvien": "Lục Văn Tiến",
+        "giaovu": "Đỗ Thị Phương Mai",
+        "vipham": 0
+    },
+    {
+        "ID": 2,
+        "diem": 17,
+        "giangvien": "Lục Văn Tiến",
+        "giaovu": "Đỗ Thị Phương Mai",
+        "vipham": 0
+    },
+    {
+        "ID": 3,
+        "diem": 18,
+        "giangvien": "Lục Văn Tiến",
+        "giaovu": "Đỗ Thị Phương Mai",
+        "vipham": 0
+    },
+    {
+        "ID": 4,
+        "diem": 19,
+        "giangvien": "Lục Văn Tiến",
+        "giaovu": "Đỗ Thị Phương Mai",
+        "vipham": 0
+    },
+    {
+        "ID": 5,
+        "diem": 20,
+        "giangvien": "Lục Văn Tiến",
+        "giaovu": "Đỗ Thị Phương Mai",
+        "vipham": 1
+    },
+    {
+        "ID": 6,
+        "diem": 16,
+        "giangvien": "Nguyễn Văn Hiểu",
+        "giaovu": "Phạm Minh Khuê",
+        "vipham": 0
+    },
+    {
+        "ID": 7,
+        "diem": 17,
+        "giangvien": "Nguyễn Văn Hiểu",
+        "giaovu": "Phạm Minh Khuê",
+        "vipham": 0
+    },
+    {
+        "ID": 8,
+        "diem": 18,
+        "giangvien": "Nguyễn Văn Hiểu",
+        "giaovu": "Phạm Minh Khuê",
+        "vipham": 0
+    },
+    {
+        "ID": 9,
+        "diem": 19,
+        "giangvien": "Nguyễn Văn Hiểu",
+        "giaovu": "Phạm Minh Khuê",
+        "vipham": 0
+    },
+    {
+        "ID": 10,
+        "diem": 20,
+        "giangvien": "Nguyễn Văn Hiểu",
+        "giaovu": "Phạm Minh Khuê",
+        "vipham": 1
+    }
+]
